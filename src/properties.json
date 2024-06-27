@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "ilanbaslik": "Lüks Daire",
+    "ilanaciklama": "Deniz manzaralı lüks daire.",
+    "fiyat": 1500000,
+    "il": "İstanbul",
+    "ilce": "Beşiktaş",
+    "kategori": "Daire",
+    "tur": "Satılık",
+    "odaSayisi": "3+1",
+    "photos": [
+      {
+        "uid": "1",
+        "name": "photo1.jpg",
+        "status": "done",
+        "url": "https://hecdnw01.hemlak.com/ds01/5/0/1/7/8/1/9/3/7c51cd65-946c-4531-b7b5-5d2258d573fa.jpg"
+      },
+      {
+        "uid": "2",
+        "name": "photo2.jpg",
+        "status": "done",
+        "url": "https://hecdnw01.hemlak.com/ds01/5/0/1/7/8/1/9/3/c9b32935-70e0-4cd8-87cf-ce76a15d978c.jpg"
+      },
+      {
+        "uid": "3",
+        "name": "photo3.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/3/0/7/6/6/8/2/4/a22deec4-651a-410f-9620-b2160bb8362b.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ilanbaslik": "Modern Villa",
+    "ilanaciklama": "Havuzlu ve geniş bahçeli modern villa.",
+    "fiyat": 4500000,
+    "il": "Antalya",
+    "ilce": "Konyaaltı",
+    "kategori": "Villa",
+    "tur": "Satılık",
+    "odaSayisi": "5+2",
+    "photos": [
+      {
+        "uid": "4",
+        "name": "photo4.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/8/6/0/2/1/9/3/7540259b-8b0e-4898-b507-9069ca1687b2.jpg"
+      },
+      {
+        "uid": "5",
+        "name": "photo5.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/8/6/0/2/1/9/3/fbcb2f64-2545-4bac-a3ac-747720539237.jpg"
+      },
+      {
+        "uid": "6",
+        "name": "photo6.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/8/6/0/2/1/9/3/7c74289d-3119-4188-9c5e-58ef602f5c07.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ilanbaslik": "Yazlık Ev",
+    "ilanaciklama": "Denize sıfır yazlık ev.",
+    "fiyat": 2000000,
+    "il": "Muğla",
+    "ilce": "Bodrum",
+    "kategori": "Yazlık",
+    "tur": "Satılık",
+    "odaSayisi": "4+1",
+    "photos": [
+      {
+        "uid": "7",
+        "name": "photo7.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/3/3/6/4/8/2/4/b6a626c6-0450-4196-bc4c-5ceba320ed05.jpg"
+      },
+      {
+        "uid": "8",
+        "name": "photo8.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/3/3/6/4/8/2/4/aaec3241-c12b-4e29-b977-e6f241245aeb.jpg"
+      },
+      {
+        "uid": "9",
+        "name": "photo9.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/3/3/6/4/8/2/4/c6adb879-78fe-4e56-b980-c0f33c40e5d5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ilanbaslik": "Merkezi Daire",
+    "ilanaciklama": "Şehir merkezinde ulaşımı kolay daire.",
+    "fiyat": 1200000,
+    "il": "Ankara",
+    "ilce": "Çankaya",
+    "kategori": "Daire",
+    "tur": "Kiralık",
+    "odaSayisi": "2+1",
+    "photos": [
+      {
+        "uid": "10",
+        "name": "photo10.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/4/9/2/2/8/2/4/69fa8a69-5417-4cf4-843e-d7432362daeb.jpeg"
+      },
+      {
+        "uid": "11",
+        "name": "photo11.jpg",
+        "status": "done",
+        "url": "hhttps://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/4/9/2/2/8/2/4/2d823907-fc78-4cdc-8b63-9e68225c6ac7.jpeg"
+      },
+      {
+        "uid": "12",
+        "name": "photo12.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/8/4/9/2/2/8/2/4/61b6182e-13d9-4dfd-b524-65a2be847dc3.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ilanbaslik": "Müstakil Ev",
+    "ilanaciklama": "Sessiz ve huzurlu müstakil ev.",
+    "fiyat": 900000,
+    "il": "Bursa",
+    "ilce": "Nilüfer",
+    "kategori": "Müstakil Ev",
+    "tur": "Satılık",
+    "odaSayisi": "3+1",
+    "photos": [
+      {
+        "uid": "13",
+        "name": "photo13.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/9/2/3/7/7/7/2/4/aded046e-dcac-46c2-baec-3277f538eeac.jpg"
+      },
+      {
+        "uid": "14",
+        "name": "photo14.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/9/2/3/7/7/7/2/4/296e7477-ff38-4c1c-8a29-352ec41133c9.jpg"
+      },
+      {
+        "uid": "15",
+        "name": "photo15.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/4/9/6/9/5/2/4/81a525d4-5a25-475c-9591-2e362dbcc0c3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ilanbaslik": "Residans Dairesi",
+    "ilanaciklama": "Şehir manzaralı residans dairesi.",
+    "fiyat": 2500000,
+    "il": "İzmir",
+    "ilce": "Karşıyaka",
+    "kategori": "Residence",
+    "tur": "Satılık",
+    "odaSayisi": "2+1",
+    "photos": [
+      {
+        "uid": "16",
+        "name": "photo16.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/6/5/5/8/3/4/2/4/7471e69d-a3b7-45a0-8737-5400d11c2f81.jpeg"
+      },
+      {
+        "uid": "17",
+        "name": "photo17.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/6/5/5/8/3/4/2/4/760d7347-1d3a-4324-9f59-b1e5a630d46b.jpeg"
+      },
+      {
+        "uid": "18",
+        "name": "photo18.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/6/5/5/8/3/4/2/4/59bc1ed5-9cd1-4078-8c0c-4747f435d4b4.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "ilanbaslik": "Şehir Dairesi",
+    "ilanaciklama": "Alışveriş merkezine yakın şehir dairesi.",
+    "fiyat": 1100000,
+    "il": "İstanbul",
+    "ilce": "Kadıköy",
+    "kategori": "Daire",
+    "tur": "Kiralık",
+    "odaSayisi": "1+1",
+    "photos": [
+      {
+        "uid": "19",
+        "name": "photo19.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/6/1/7/6/2/4/HijSautDuVXz4DbVdlYI8.jpg"
+      },
+      {
+        "uid": "20",
+        "name": "photo20.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/6/1/7/6/2/4/hLzx_vBc8Fky-4XKQAPd-.jpg"
+      },
+      {
+        "uid": "21",
+        "name": "photo21.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/6/1/7/6/2/4/ht8MD0imRfB5ynw4AJh9a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ilanbaslik": "Konforlu Villa",
+    "ilanaciklama": "Geniş bahçeli konforlu villa.",
+    "fiyat": 3500000,
+    "il": "Antalya",
+    "ilce": "Muratpaşa",
+    "kategori": "Villa",
+    "tur": "Satılık",
+    "odaSayisi": "4+2",
+    "photos": [
+      {
+        "uid": "22",
+        "name": "photo22.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/3/8/4/7/2/4/a76c711a-98db-436e-a98b-683b9fc08b40.jpeg"
+      },
+      {
+        "uid": "23",
+        "name": "photo23.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/3/8/4/7/2/4/813b4f58-db14-4e28-8a94-614d671239c5.jpeg"
+      },
+      {
+        "uid": "24",
+        "name": "photo24.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/3/3/8/4/7/2/4/b8bbda6b-33da-44c6-9fad-53fa914fbb28.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "ilanbaslik": "Deniz Manzaralı Yazlık",
+    "ilanaciklama": "Deniz manzaralı, lüks yazlık ev.",
+    "fiyat": 1800000,
+    "il": "Muğla",
+    "ilce": "Fethiye",
+    "kategori": "Yazlık",
+    "tur": "Satılık",
+    "odaSayisi": "3+1",
+    "photos": [
+      {
+        "uid": "25",
+        "name": "photo25.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/8/9/2/7/7/2/4/fa60460d-ae34-4624-89b9-bd00a4ef8970.jpg"
+      },
+      {
+        "uid": "26",
+        "name": "photo26.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/8/9/2/7/7/2/4/275b89a6-ad63-41df-9c81-86ea11c01e6d.jpg"
+      },
+      {
+        "uid": "27",
+        "name": "photo27.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/4/8/9/2/7/7/2/4/77096c0e-0236-41e6-8139-f816fb6bfd0b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "ilanbaslik": "Bahçeli Müstakil Ev",
+    "ilanaciklama": "Geniş bahçesi olan müstakil ev.",
+    "fiyat": 950000,
+    "il": "Bursa",
+    "ilce": "Osmangazi",
+    "kategori": "Müstakil Ev",
+    "tur": "Satılık",
+    "odaSayisi": "4+1",
+    "photos": [
+      {
+        "uid": "28",
+        "name": "photo28.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/4/9/6/9/5/2/4/2b3cefac-0548-4a07-969c-a0b26a9b0518.jpg"
+      },
+      {
+        "uid": "29",
+        "name": "photo29.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/4/9/6/9/5/2/4/2b345821-5767-480a-883c-c4d1f95afc1d.jpg"
+      },
+      {
+        "uid": "30",
+        "name": "photo30.jpg",
+        "status": "done",
+        "url": "https://hecdn01.hemlak.com/mncropresize/640/480/ds01/0/4/9/6/9/5/2/4/8d99e9b5-ab11-437a-89db-f817c23a148a.jpg"
+      }
+    ]
+  }
+]
