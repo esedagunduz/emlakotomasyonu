@@ -1,16 +1,13 @@
+<img width="1440" alt="Ekran Resmi 2024-06-28 01 10 21" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/d1a85afe-4903-4620-963f-01e297ccb4da">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 08" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/877841c7-bbf8-4562-b3b3-503cb966b11b">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 19" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/7c7f92b3-22cd-4f43-a5df-3819bc8ab909">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 28" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/6ef26d24-69a9-4293-808c-7d7c71032a84">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 56" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/dcf7e2f7-898d-4d8f-8c76-e02a1e806c7c">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 09 38" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/41753661-87d4-4249-906d-37b082ae58fd">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 11 02" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/def1ed89-aea7-4547-b26d-e9bedbcbd71c">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 11 10" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/30e2ec01-d317-4bf4-ae33-a529d09e770c">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 07 22" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/153de4a4-ba9a-4996-ab0c-438b25a72ba9">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 10 17" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/83a36166-ed34-495e-a8f9-dfaae95998e9">
+<img width="1440" alt="Ekran Resmi 2024-06-28 01 21 57" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/12db611e-b7d9-4185-8eb3-ad10bde4e2aa">
+<img width="1440" alt="Ekran Resmi 2024-06-28 00 13 15" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/5284624d-d8c7-4412-a4e3-a26d2e4394ed">
 
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 07 22" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/2df2bcb5-31e2-4f56-85ad-d08b6fd803b6">
-
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 08" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/96a9f9a1-c929-4ee8-9053-df7f83f79a5d">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 19" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/c3e28bb1-da0e-4058-87f1-42193cb6adac">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 08 28" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/e5e4b729-36c4-4646-807e-7e18414c0b8e">
-![
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 09 38" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/8b4cb2ca-f8bd-48e0-b973-25d64c132171">
-Uploading Ekran Resmi 2024-06-28 00.08.56.png…]()
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 10 17" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/2329a766-2c57-485f-b411-14114183e5da">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 10 17" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/cd4d93d4-7ad3-4fda-bd93-2996e0883c80">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 11 02" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/4b40bc60-6e0e-4396-8432-98a271b70975">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 11 10" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/9d719657-df8f-4ba3-9d2f-00e6e496bae7">
-<img width="1440" alt="Ekran Resmi 2024-06-28 00 13 15" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/9315a234-5655-4ca4-8cd5-f8179e157854">
-<img width="1440" alt="Ekran Resmi 2024-06-28 01 10 21" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/a947769e-74c4-4950-b22d-4156c95583f1">
-<img width="1440" alt="Ekran Resmi 2024-06-28 01 21 57" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/18bbf7f7-9ba7-4834-adf7-f3b9a34eb32c">
