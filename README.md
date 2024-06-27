@@ -1,0 +1,2 @@
+# emlakotomasyonu
+ Emlak otomasyonu projesi
