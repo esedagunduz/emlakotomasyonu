@@ -1,3 +1,10 @@
+ Bu proje, React.js ve Ant Design  kullanılarak geliştirilmiş bir emlak otomasyonu projesidir. Emlakçı giriş yaptığında yeni emlaklar ekleyebilir,silebilir ve güncelleyebiliir. İsteklere göre emlaklar filtrelenir ve en uygun emlaklar listelenir.Müşteriler emlakları favori listesine ekleyebilir ,detayları görüntüleyebilir ve bu favori listesi mail olarak gönderilebilir.Popüler şehirler kartlarına basıldığında sadece seçilen şehirde bulunan evler listelenir.
+Firebase:Kullanıcı kayıtlarını saklamak için kullanıldı.API ile il ve ilçe verileri çekildi.
+
+
+
+
+
 <img width="1440" alt="Ekran Resmi 2024-06-28 01 10 21" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/d1a85afe-4903-4620-963f-01e297ccb4da">
 <img width="1440" alt="Ekran Resmi 2024-06-28 00 08 08" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/877841c7-bbf8-4562-b3b3-503cb966b11b">
 <img width="1440" alt="Ekran Resmi 2024-06-28 00 08 19" src="https://github.com/esedagunduz/emlakotomasyonu/assets/120177771/7c7f92b3-22cd-4f43-a5df-3819bc8ab909">
